@@ -1,16 +1,14 @@
-## Hi there 👋
+# Yo! ✌️
 
-<!--
-**Anshumankhanna/Anshumankhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am an engineer interested in all sorts of technologies. I develop:
+- Asynchronous HTTP server in C
+- Web Applications using JS/TS (Full Stack)
+- CLI in C, TS
+- npm package in TS
+And many more that I want to develop and will develop.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also write blogs on various sites, check them out:
+- [Medium](https://medium.com/@anshumankh01)
+- [X/Twitter](https://twitter.com/@AnshumanKhanna5)
+- [LinkedIn](https://www.linkedin.com/in/anshuman-khanna-02553b22a/)
+- [Devto](https://dev.to/anshuman_khanna)
