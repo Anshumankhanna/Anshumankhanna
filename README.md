@@ -3,8 +3,9 @@
 #### I am an engineer interested in all sorts of technologies. I develop:
 - Asynchronous HTTP server in C
 - Web Applications using JS/TS (Full Stack)
-- CLI in C, TS
+- CLI in C, Python, TS
 - npm package in TS
+- AI services in Python
 And many more that I want to develop and will develop.
 
 I also write blogs on various sites, check them out:
