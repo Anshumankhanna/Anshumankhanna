@@ -6,6 +6,7 @@
 - CLI in C, Python, TS
 - npm package in TS
 - AI services in Python
+
 And many more that I want to develop and will develop.
 
 I also write blogs on various sites, check them out:
